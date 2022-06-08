@@ -1,0 +1,13 @@
+<table>
+    <thead>
+        <th>Title</th>
+        <th>Body</th>
+    </thead>
+    <tbody>
+        <%= for post <- @posts do %>
+        <tr>
+            <td><%= post.title %></td>
+            <td><%= post.body %></td>
+        <% end %>
+    </tbody>
+</table>
