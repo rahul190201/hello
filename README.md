@@ -7,4 +7,4 @@ To start your Phoenix server:
 
 Now you can visit [localhost:4000](http://localhost:4000/) from your browser.
 
-To visit the Hello page, go to [localhost:4000/hello](http://localhost:4000/hello)
+To visit the Posts page, go to [localhost:4000/posts](http://localhost:4000/posts)
